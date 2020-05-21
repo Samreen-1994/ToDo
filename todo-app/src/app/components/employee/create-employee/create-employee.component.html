@@ -1,0 +1,57 @@
+<div class="container f12">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    Create Employee
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="firstName">First Name:</label>
+                            <input type="firstName" class="form-control form-control-sm f12" id="firstName"
+                                name="firstName" placeholder="Enter First Name" [(ngModel)]="this.emp.first_name"
+                                required>
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Last Name:</label>
+                            <input type="text" class="form-control form-control-sm f12" id="lastName" name="lastName"
+                                required placeholder="Enter Last Name" [(ngModel)]="this.emp.last_name">
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Salary:</label>
+                            <input type="number" class="form-control form-control-sm f12" id="salary" name="salary"
+                                required placeholder="Enter Salary" [(ngModel)]="this.emp.salary">
+                        </div>
+                        <button class="btn btn-primary f12" (click)="this.createEmployee()">Create</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <table class="table table-sm table-striped">
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Salary</th>
+                </tr>
+                <tr *ngFor="let e of this.empList" (click)="fetchToDoItems(e)"
+                    [ngStyle]="{'background-color':e.employee_id==this.helper.selectedEmployee.employee_id ? '#DCDCDC' : 'white' }"
+                    style="cursor: pointer;">
+                    <td>{{e.first_name}}</td>
+                    <td>{{e.last_name}}</td>
+                    <td>{{e.salary}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-4">
+            <app-create-todo></app-create-todo>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5">
+            <app-show-todo></app-show-todo>
+        </div>
+
+    </div>
+</div>

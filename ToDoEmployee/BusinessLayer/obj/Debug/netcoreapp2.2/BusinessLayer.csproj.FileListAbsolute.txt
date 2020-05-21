@@ -1,0 +1,14 @@
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.deps.json
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\GenericRepository.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\bin\Debug\netcoreapp2.2\GenericRepository.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfo.cs
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CopyComplete
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.pdb

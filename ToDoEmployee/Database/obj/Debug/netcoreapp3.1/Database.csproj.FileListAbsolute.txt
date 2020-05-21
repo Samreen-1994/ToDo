@@ -1,0 +1,9 @@
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\Database\obj\Debug\netcoreapp3.1\Database.pdb

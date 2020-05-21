@@ -1,0 +1,12 @@
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\bin\Debug\netcoreapp3.1\GenericRepository.deps.json
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\bin\Debug\netcoreapp3.1\GenericRepository.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\bin\Debug\netcoreapp3.1\GenericRepository.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.csprojAssemblyReference.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.AssemblyInfoInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.AssemblyInfo.cs
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.csproj.CoreCompileInputs.cache
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.csproj.CopyComplete
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.dll
+C:\Users\samreen_saeed\source\repos\ToDoEmployee\GenericRepository\obj\Debug\netcoreapp3.1\GenericRepository.pdb

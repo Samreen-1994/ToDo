@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <th>Employee Tasks</th>
+    </tr>
+    <tr *ngFor="let t of this.todoItems" style="cursor: pointer;" (click)="selectTask(t)">
+        <td>{{t.title}}</td>
+    </tr>
+</table>
+
+<div style="margin-top: 50px;">
+    <b>Task Details</b>
+    <p *ngIf="this.selectedTask">
+        Details: {{this.selectedTask.details}}<br>
+        Priority: {{GetPriority(this.selectedTask.prioritylevel)}}<br>
+        State: {{this.selectedTask.taskState}}<br>
+        Estimate: {{this.selectedTask.estimate}}<br>
+    </p>
+</div>
